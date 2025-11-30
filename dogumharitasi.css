@@ -25,3 +25,11 @@ nav a{
 h2 {
 	color:#f4d06f;
 }
+ol {
+	max-width: 600px;
+	margin: 20px;
+	padding: 20px;
+}
+li {
+	margin-bottom: 8px;
+}
