@@ -1,0 +1,34 @@
+body{
+	background: linear-gradient(135deg, #0a0f2c, #12172e);
+	color:white;
+	font-family:verdana;
+	padding: 20px;
+
+}
+
+header{
+	text-align: center;
+	padding: 20px;
+}
+
+nav{
+	text-align: center;
+	padding:15px;
+}
+
+nav a{
+	color:#f4d06f;
+	margin: 12px;
+	font-family:verdana ;
+	text-decoration: none;
+}
+h2, h3 {
+	color:#f4d06f;
+}
+.top {
+	color:#f4d06f;
+	margin: 12px;
+	font-family:verdana ;
+	
+}
+
